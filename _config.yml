@@ -1,0 +1,12 @@
+# Site settings
+title: Hao Huang
+email: hhuangmeso@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ A personal website for me to write down the thoughts of science, life and myself
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hhuangmeso.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  hhuangmeso
+
+# Build settings
+markdown: kramdown
